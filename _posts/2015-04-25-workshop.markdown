@@ -1,5 +1,5 @@
  ---
-title:  "A Craftsman Workshop"
+title:  "A Carreira Como Professor"
 subtitle: "It's always a bit messy"
 author: "Wferr"
 avatar: "img/authors/wferr.png"
