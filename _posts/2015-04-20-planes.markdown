@@ -1,6 +1,6 @@
 ---
-title:  "Bibliografia"
-subtitle: "O Início"
+title:  "Escola Estadual Professor Cícero Torres Galindo"
+subtitle: "Senador Firmino"
 author: "Renan Miranda"
 avatar: "img/authors/wferr.png"
 image: "img/a.jpg"
