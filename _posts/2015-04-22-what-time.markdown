@@ -1,10 +1,10 @@
 ---
-title:  "Watches"
-subtitle: "The Bigger the better?"
-author: "Wferr"
+title:  "Sobre a Escola"
+subtitle: "E. E. Prof. Cícero Torres Galindo"
+author: "Renan Miranda"
 avatar: "img/authors/wferr.png"
 image: "img/c.jpg"
-date:   2015-04-22 12:12:12
+date:   16-08-2019 12:12:12
 ---
 
 ### Dolor sit amet?
