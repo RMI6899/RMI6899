@@ -1,6 +1,6 @@
 ---
 title:  "Sobre Mim"
-subtitle: ""
+subtitle: "Um Breve Resumo"
 author: "Prof. Renan Miranda"
 avatar: "img/authors/wferr.png"
 image: "img/a.jpg"
