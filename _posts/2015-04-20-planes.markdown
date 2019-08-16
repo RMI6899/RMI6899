@@ -1,5 +1,5 @@
 ---
-title:  "###Sobre Mim"
+title:  "Sobre Mim"
 subtitle: ""
 author: "Prof. Renan Miranda"
 avatar: "img/authors/wferr.png"
