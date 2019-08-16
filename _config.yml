@@ -1,7 +1,7 @@
 # Site settings
-title: Modern Blog
-description: Modern-Blog A Elegant template for Jekyll
+title: Renan Miranda
+description: Página Pessoal de Renan Miranda
 keywords: Modern, Blogging, Fun
-author: Wferr
+author: Renan Miranda
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
